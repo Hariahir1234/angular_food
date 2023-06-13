@@ -1,0 +1,33 @@
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+div input{
+    border-top-left-radius:1rem ;
+    border-bottom-left-radius: 1rem;
+    border: none;
+    height: 3rem;
+    width: 20rem;
+    background-color: rgb(227, 227, 227);
+    padding: 1.2rem;
+    font-size: 1rem;
+    outline: none;
+}
+
+div button{
+    border-top-right-radius:1rem ;
+    border-bottom-right-radius: 1rem;
+    background-color: red;
+    color: white;
+    border: none;
+    opacity: 0.7;
+    
+}
+
+div button:hover{
+    opacity: 1;
+    cursor: pointer;
+}
