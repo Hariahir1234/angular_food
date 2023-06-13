@@ -42,7 +42,7 @@ export class FoodService {
       favorite:true,
       origins:['america'],
       star:6,
-      imageUrl:'./assets/food-1.jpg',
+      imageUrl:'assets/food-1.jpg',
       tags:['FastFood','Burger'],
     },
     {
@@ -53,7 +53,7 @@ export class FoodService {
       favorite:false,
       origins:['italy'],
       star:7,
-      imageUrl:'./assets/food-2.jpg',
+      imageUrl:'assets/food-2.jpg',
       tags:['FastFood','Pizza'],
     },
     {
@@ -64,7 +64,7 @@ export class FoodService {
       favorite:false,
       origins:['china'],
       star:4,
-      imageUrl:'./assets/food-3.jpg',
+      imageUrl:'assets/food-3.jpg',
       tags:['SlowFood','Fry'],
     },
     {
@@ -75,7 +75,7 @@ export class FoodService {
       favorite:false,
       origins:['united kingdom'],
       star:8,
-      imageUrl:'./assets/food-4.jpg',
+      imageUrl:'assets/food-4.jpg',
       tags:['FastFood'],
     },
     {
@@ -86,7 +86,7 @@ export class FoodService {
       favorite:false,
       origins:['america'],
       star:6,
-      imageUrl:'./assets/food-5.jpg',
+      imageUrl:'assets/food-5.jpg',
       tags:['FastFood','Lunch'],
     },
     {
@@ -97,7 +97,7 @@ export class FoodService {
       favorite:false,
       origins:['india'],
       star:7,
-      imageUrl:'./assets/food-6.jpg',
+      imageUrl:'assets/food-6.jpg',
       tags:['Lunch','SlowFood'],
     },
     {
@@ -108,7 +108,7 @@ export class FoodService {
       favorite:false,
       origins:['italy,india'],
       star:7,
-      imageUrl:'./assets/food-7.jpg',
+      imageUrl:'assets/food-7.jpg',
       tags:['FastFood','Pizza'],
     },
     {
@@ -119,7 +119,7 @@ export class FoodService {
       favorite:false,
       origins:['china,india'],
       star:8,
-      imageUrl:'./assets/food-8.jpg',
+      imageUrl:'assets/food-8.jpg',
       tags:['Soup'],
     },
     ]
